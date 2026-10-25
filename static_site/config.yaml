@@ -1,5 +1,5 @@
 name: Static Site
-version: 0.1.0
+version: 1.0.0
 slug: static_site
 description: Serves a folder of static files from /share in the sidebar, for logged-in users only
 url: https://github.com/vmartinv/ha-static-site
