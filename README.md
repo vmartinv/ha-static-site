@@ -1,6 +1,6 @@
 # Static Site add-on for Home Assistant
 
-Serves the files in `/share/<root>/` as a website inside Home Assistant, through Ingress: it gets a sidebar entry and only logged-in Home Assistant users (admins or not) can reach it. The add-on exposes no port.
+A minimal add-on to host a simple website inside your Home Assistant, visible only to logged-in Home Assistant users. It reuses Home Assistant's login, so you get authentication for free: no extra accounts, passwords or open ports. Drop your files in `/share/<root>/` and the site appears as a sidebar entry.
 
 ## Options
 
